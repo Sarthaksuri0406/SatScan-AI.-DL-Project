@@ -20,7 +20,7 @@ Automated interpretation of satellite imagery is critical for environmental moni
 
 <p align="center">
   <img src="assets/dashboard_demo.jpeg" width="45%" alt="SATSCAN Dashboard">
-  <img src="assets/poster.png" width="45%" alt="SATSCAN Output">
+  <img src="assets/poster3.png" width="45%" alt="SATSCAN Output">
 </p>
 
 ## Key Features
