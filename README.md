@@ -16,9 +16,12 @@ SATSCAN is a deep learning application designed for the automated analysis and c
 
 Automated interpretation of satellite imagery is critical for environmental monitoring, urban planning, and disaster response. SATSCAN automates this process by dividing high-resolution imagery into processable patches, classifying them using a Transformer-based attention mechanism, and reconstructing the semantic map in real-time.
 
-**View Demo:**
-![SATSCAN Dashboard](assets/WhatsApp Image 2025-12-07 at 14.51.39.jpeg)
-![SATSCAN OutPut](assets/Poster (1).png)
+## View Demo
+
+<p align="center">
+  <img src="assets/DashBoard_demo.jpeg" width="45%" alt="SATSCAN Dashboard">
+  <img src="assets/poster.png" width="45%" alt="SATSCAN Output">
+</p>
 
 ## Key Features
 
