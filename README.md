@@ -146,4 +146,10 @@ This project utilizes the **EuroSAT** dataset.
 Distributed under the MIT License. See `LICENSE` for more information.
 
 -----
+## Authors
+* Kartik Sharma
+* Sarthak Suri
+* Prateek Singh
+* Manan Garg
+  
 **Institution:** Thapar Institute of Engineering and Technology
